@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2aa3d7a-5588-422d-bc94-01dc8e8fa4ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spiders/tool_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hos1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,10 +26,20 @@
   <component name="ProjectId" id="1ZetGfb5Yv9NXO7PNeiBkd9jAal" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spiders" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="taobao" sdk-home="D:\python\python.exe">
+        <option name="mySdkHome" value="D:\python\python.exe" />
+        <option name="myModuleName" value="taobao" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pypro\taobao\taobao" />
       <recent name="E:\pypro\taobao\taobao\spiders" />
     </key>
   </component>
